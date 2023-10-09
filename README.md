@@ -1,4 +1,4 @@
-# Hi there, I'm Ian - aka [![SoloT3ch](https://www.youtube.com/channel/UC98RCwEUZK_ubs4MQnLxPYg) 👋 
+# Hi there, I'm Ian - aka [![SoloT3ch](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC98RCwEUZK_ubs4MQnLxPYg) 👋 
 <br>
 <br>
 
