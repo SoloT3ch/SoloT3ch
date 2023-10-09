@@ -16,7 +16,7 @@ a few secrets to unlock. Explore my journey through the ever-evolving tech lands
 
 ### Connect with me:
 
-[![SoloT3ch](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC98RCwEUZK_ubs4MQnLxPYg)
+[![SoloT3ch]()](https://www.youtube.com/channel/UC98RCwEUZK_ubs4MQnLxPYg)
 
 <!---
 SoloT3ch/SoloT3ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
