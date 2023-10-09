@@ -9,10 +9,10 @@ a few secrets to unlock. Explore my journey through the ever-evolving tech lands
 
 # I'm a Husband, Father and a Developer!
 
-🚀 Peek into the mind of a curious developer.
-🌌 Share in my triumphs and occasional debugging woes.
-🌈 Join me on this exciting coding adventure. "[SoloT3ch][youtube]"
-🥅 2023 Goals: Learn more about Javascript
+- 🚀 Peek into the mind of a curious developer.
+- 🌌 Share in my triumphs and occasional debugging woes.
+- 🌈 Join me on this exciting coding adventure. "[SoloT3ch][youtube]"
+- 🥅 2023 Goals: Learn more about Javascript
 
 ### Connect with me:
 
